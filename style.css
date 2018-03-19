@@ -14,6 +14,6 @@ p {
 }
 
 .importante em {
-  color: white
-  font_style: italic
+  color: white;
+  font-style: italic;
 }
