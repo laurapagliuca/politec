@@ -12,3 +12,8 @@ h1, h2 {
 p {
   font-family: monospace;
 }
+
+.importante {
+  color: white
+  font_style: italic
+}
