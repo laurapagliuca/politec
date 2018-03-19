@@ -13,7 +13,7 @@ p {
   font-family: monospace;
 }
 
-.importante {
+.importante em {
   color: white
   font_style: italic
 }
