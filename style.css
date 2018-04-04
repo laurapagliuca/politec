@@ -1,19 +1,44 @@
 body
 {
-background-color: #D4C8F0;
+background-color: #ffffff;
 margin-left:20px
 }
 
-h1, h2 {
-  color: #624D91;
+h1 {
+  color: #000000;
   font-size: 45pt;
-  font-family: georgia;
+  font-family: evita freebies ;
+  hover: color;
 }
 p {
-  font-family: monospace;
+  font-family: ;
 }
 
-.importante em {
-  color: white;
-  font-style: italic;
+.importante {
+  color: #e6c9e2;
+  font-style: normal;
+}
+
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+    color: #e7cae3;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+h3 {
+  color: #ad88a8
 }
