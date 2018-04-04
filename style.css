@@ -19,6 +19,13 @@ p {
   font-style: normal;
 }
 
+ul#menu li {
+  float: left;
+  text-align: center;
+  font-family: serif;
+  border: 1px solid #e7cae3;
+}
+
 /* unvisited link */
 a:link {
     color: #000000;
